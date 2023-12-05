@@ -21,7 +21,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='main',
+    name='GOG CC R - GOG Creation Club Renamer',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
