@@ -5,3 +5,5 @@ This tool renames the Skyrim Anniversary Edition DLC content on GOG to match the
 # How to use
 
 To use this extract the [latest release](https://github.com/EzioTheDeadPoet/GOG_CreationClub_Renamer/releases/latest) into your GOG Skyrim Data folder and run the exe file.
+
+Just make sure to refresh your Windows Explorer Window after running the tool because windows might not update the changed file names visually.
