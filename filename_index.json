@@ -1,0 +1,594 @@
+[
+  {
+    "input_name": "ccAFDSSE001-DweSanctuary.bsa",
+    "output_name": "ccafdsse001-dwesanctuary.bsa"
+  },
+  {
+    "input_name": "ccAFDSSE001-DweSanctuary.esm",
+    "output_name": "ccafdsse001-dwesanctuary.esm"
+  },
+  {
+    "input_name": "ccASVSSE001-ALMSIVI.bsa",
+    "output_name": "ccasvsse001-almsivi.bsa"
+  },
+  {
+    "input_name": "ccASVSSE001-ALMSIVI.esm",
+    "output_name": "ccasvsse001-almsivi.esm"
+  },
+  {
+    "input_name": "ccBGSSSE001-Fish.bsa",
+    "output_name": "ccbgssse001-fish.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE001-Fish.esm",
+    "output_name": "ccbgssse001-fish.esm"
+  },
+  {
+    "input_name": "ccBGSSSE002-ExoticArrows.bsa",
+    "output_name": "ccbgssse002-exoticarrows.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE002-ExoticArrows.esl",
+    "output_name": "ccbgssse002-exoticarrows.esl"
+  },
+  {
+    "input_name": "ccBGSSSE003-Zombies.bsa",
+    "output_name": "ccbgssse003-zombies.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE003-Zombies.esl",
+    "output_name": "ccbgssse003-zombies.esl"
+  },
+  {
+    "input_name": "ccBGSSSE004-RuinsEdge.bsa",
+    "output_name": "ccbgssse004-ruinsedge.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE004-RuinsEdge.esl",
+    "output_name": "ccbgssse004-ruinsedge.esl"
+  },
+  {
+    "input_name": "ccBGSSSE005-Goldbrand.bsa",
+    "output_name": "ccbgssse005-goldbrand.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE005-Goldbrand.esl",
+    "output_name": "ccbgssse005-goldbrand.esl"
+  },
+  {
+    "input_name": "ccBGSSSE006-StendarsHammer.bsa",
+    "output_name": "ccbgssse006-stendarshammer.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE006-StendarsHammer.esl",
+    "output_name": "ccbgssse006-stendarshammer.esl"
+  },
+  {
+    "input_name": "ccBGSSSE007-Chrysamere.bsa",
+    "output_name": "ccbgssse007-chrysamere.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE007-Chrysamere.esl",
+    "output_name": "ccbgssse007-chrysamere.esl"
+  },
+  {
+    "input_name": "ccBGSSSE008-Wraithguard.bsa",
+    "output_name": "ccbgssse008-wraithguard.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE008-Wraithguard.esl",
+    "output_name": "ccbgssse008-wraithguard.esl"
+  },
+  {
+    "input_name": "ccBGSSSE010-PetDwarvenArmoredMudcrab.bsa",
+    "output_name": "ccbgssse010-petdwarvenarmoredmudcrab.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE010-PetDwarvenArmoredMudcrab.esl",
+    "output_name": "ccbgssse010-petdwarvenarmoredmudcrab.esl"
+  },
+  {
+    "input_name": "ccBGSSSE011-HrsArmrElvn.bsa",
+    "output_name": "ccbgssse011-hrsarmrelvn.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE011-HrsArmrElvn.esl",
+    "output_name": "ccbgssse011-hrsarmrelvn.esl"
+  },
+  {
+    "input_name": "ccBGSSSE012-HrsArmrStl.bsa",
+    "output_name": "ccbgssse012-hrsarmrstl.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE012-HrsArmrStl.esl",
+    "output_name": "ccbgssse012-hrsarmrstl.esl"
+  },
+  {
+    "input_name": "ccBGSSSE013-Dawnfang.bsa",
+    "output_name": "ccbgssse013-dawnfang.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE013-Dawnfang.esl",
+    "output_name": "ccbgssse013-dawnfang.esl"
+  },
+  {
+    "input_name": "ccBGSSSE014-SpellPack01.bsa",
+    "output_name": "ccbgssse014-spellpack01.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE014-SpellPack01.esl",
+    "output_name": "ccbgssse014-spellpack01.esl"
+  },
+  {
+    "input_name": "ccBGSSSE016-Umbra.bsa",
+    "output_name": "ccbgssse016-umbra.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE016-Umbra.esm",
+    "output_name": "ccbgssse016-umbra.esm"
+  },
+  {
+    "input_name": "ccBGSSSE018-Shadowrend.bsa",
+    "output_name": "ccbgssse018-shadowrend.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE018-Shadowrend.esl",
+    "output_name": "ccbgssse018-shadowrend.esl"
+  },
+  {
+    "input_name": "ccBGSSSE019-StaffofSheogorath.bsa",
+    "output_name": "ccbgssse019-staffofsheogorath.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE019-StaffofSheogorath.esl",
+    "output_name": "ccbgssse019-staffofsheogorath.esl"
+  },
+  {
+    "input_name": "ccBGSSSE020-GrayCowl.bsa",
+    "output_name": "ccbgssse020-graycowl.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE020-GrayCowl.esl",
+    "output_name": "ccbgssse020-graycowl.esl"
+  },
+  {
+    "input_name": "ccBGSSSE021-LordsMail.bsa",
+    "output_name": "ccbgssse021-lordsmail.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE021-LordsMail.esl",
+    "output_name": "ccbgssse021-lordsmail.esl"
+  },
+  {
+    "input_name": "ccBGSSSE025-AdvDSGS.bsa",
+    "output_name": "ccBGSSSE025-AdvDSGS.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE025-AdvDSGS.esm",
+    "output_name": "ccBGSSSE025-AdvDSGS.esm"
+  },
+  {
+    "input_name": "ccBGSSSE031-AdvCyrus.bsa",
+    "output_name": "ccbgssse031-advcyrus.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE031-AdvCyrus.esm",
+    "output_name": "ccbgssse031-advcyrus.esm"
+  },
+  {
+    "input_name": "ccBGSSSE034-MntUni.bsa",
+    "output_name": "ccbgssse034-mntuni.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE034-MntUni.esl",
+    "output_name": "ccbgssse034-mntuni.esl"
+  },
+  {
+    "input_name": "ccBGSSSE035-PetNHound.bsa",
+    "output_name": "ccbgssse035-petnhound.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE035-PetNHound.esl",
+    "output_name": "ccbgssse035-petnhound.esl"
+  },
+  {
+    "input_name": "ccBGSSSE036-PetBWolf.bsa",
+    "output_name": "ccbgssse036-petbwolf.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE036-PetBWolf.esl",
+    "output_name": "ccbgssse036-petbwolf.esl"
+  },
+  {
+    "input_name": "ccBGSSSE037-Curios.bsa",
+    "output_name": "ccbgssse037-curios.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE037-Curios.esl",
+    "output_name": "ccbgssse037-curios.esl"
+  },
+  {
+    "input_name": "ccBGSSSE038-BowofShadows.bsa",
+    "output_name": "ccbgssse038-bowofshadows.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE038-BowofShadows.esl",
+    "output_name": "ccbgssse038-bowofshadows.esl"
+  },
+  {
+    "input_name": "ccBGSSSE040-AdvObGobs.bsa",
+    "output_name": "ccbgssse040-advobgobs.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE040-AdvObGobs.esl",
+    "output_name": "ccbgssse040-advobgobs.esl"
+  },
+  {
+    "input_name": "ccBGSSSE041-NetchLeather.bsa",
+    "output_name": "ccbgssse041-netchleather.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE041-NetchLeather.esl",
+    "output_name": "ccbgssse041-netchleather.esl"
+  },
+  {
+    "input_name": "ccBGSSSE043-CrossElv.bsa",
+    "output_name": "ccbgssse043-crosselv.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE043-CrossElv.esl",
+    "output_name": "ccbgssse043-crosselv.esl"
+  },
+  {
+    "input_name": "ccBGSSSE045-Hasedoki.bsa",
+    "output_name": "ccbgssse045-hasedoki.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE045-Hasedoki.esl",
+    "output_name": "ccbgssse045-hasedoki.esl"
+  },
+  {
+    "input_name": "ccBGSSSE050-BA_Daedric.bsa",
+    "output_name": "ccbgssse050-ba_daedric.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE050-BA_Daedric.esl",
+    "output_name": "ccbgssse050-ba_daedric.esl"
+  },
+  {
+    "input_name": "ccBGSSSE051-BA_DaedricMail.bsa",
+    "output_name": "ccbgssse051-ba_daedricmail.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE051-BA_DaedricMail.esl",
+    "output_name": "ccbgssse051-ba_daedricmail.esl"
+  },
+  {
+    "input_name": "ccBGSSSE052-BA_Iron.bsa",
+    "output_name": "ccbgssse052-ba_iron.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE052-BA_Iron.esl",
+    "output_name": "ccbgssse052-ba_iron.esl"
+  },
+  {
+    "input_name": "ccBGSSSE053-BA_Leather.bsa",
+    "output_name": "ccbgssse053-ba_leather.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE053-BA_Leather.esl",
+    "output_name": "ccbgssse053-ba_leather.esl"
+  },
+  {
+    "input_name": "ccBGSSSE054-BA_Orcish.bsa",
+    "output_name": "ccbgssse054-ba_orcish.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE054-BA_Orcish.esl",
+    "output_name": "ccbgssse054-ba_orcish.esl"
+  },
+  {
+    "input_name": "ccBGSSSE055-BA_OrcishScaled.bsa",
+    "output_name": "ccbgssse055-ba_orcishscaled.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE055-BA_OrcishScaled.esl",
+    "output_name": "ccbgssse055-ba_orcishscaled.esl"
+  },
+  {
+    "input_name": "ccBGSSSE056-BA_Silver.bsa",
+    "output_name": "ccbgssse056-ba_silver.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE056-BA_Silver.esl",
+    "output_name": "ccbgssse056-ba_silver.esl"
+  },
+  {
+    "input_name": "ccBGSSSE057-BA_Stalhrim.bsa",
+    "output_name": "ccbgssse057-ba_stalhrim.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE057-BA_Stalhrim.esl",
+    "output_name": "ccbgssse057-ba_stalhrim.esl"
+  },
+  {
+    "input_name": "ccBGSSSE058-BA_Steel.bsa",
+    "output_name": "ccbgssse058-ba_steel.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE058-BA_Steel.esl",
+    "output_name": "ccbgssse058-ba_steel.esl"
+  },
+  {
+    "input_name": "ccBGSSSE059-BA_Dragonplate.bsa",
+    "output_name": "ccbgssse059-ba_dragonplate.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE059-BA_Dragonplate.esl",
+    "output_name": "ccbgssse059-ba_dragonplate.esl"
+  },
+  {
+    "input_name": "ccBGSSSE060-BA_Dragonscale.bsa",
+    "output_name": "ccbgssse060-ba_dragonscale.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE060-BA_Dragonscale.esl",
+    "output_name": "ccbgssse060-ba_dragonscale.esl"
+  },
+  {
+    "input_name": "ccBGSSSE061-BA_Dwarven.bsa",
+    "output_name": "ccbgssse061-ba_dwarven.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE061-BA_Dwarven.esl",
+    "output_name": "ccbgssse061-ba_dwarven.esl"
+  },
+  {
+    "input_name": "ccBGSSSE062-BA_DwarvenMail.bsa",
+    "output_name": "ccbgssse062-ba_dwarvenmail.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE062-BA_DwarvenMail.esl",
+    "output_name": "ccbgssse062-ba_dwarvenmail.esl"
+  },
+  {
+    "input_name": "ccBGSSSE063-BA_Ebony.bsa",
+    "output_name": "ccbgssse063-ba_ebony.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE063-BA_Ebony.esl",
+    "output_name": "ccbgssse063-ba_ebony.esl"
+  },
+  {
+    "input_name": "ccBGSSSE064-BA_Elven.bsa",
+    "output_name": "ccbgssse064-ba_elven.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE064-BA_Elven.esl",
+    "output_name": "ccbgssse064-ba_elven.esl"
+  },
+  {
+    "input_name": "ccBGSSSE066-Staves.bsa",
+    "output_name": "ccbgssse066-staves.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE066-Staves.esl",
+    "output_name": "ccbgssse066-staves.esl"
+  },
+  {
+    "input_name": "ccBGSSSE067-DaedInv.bsa",
+    "output_name": "ccbgssse067-daedinv.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE067-DaedInv.esm",
+    "output_name": "ccbgssse067-daedinv.esm"
+  },
+  {
+    "input_name": "ccBGSSSE068-Bloodfall.bsa",
+    "output_name": "ccbgssse068-bloodfall.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE068-Bloodfall.esl",
+    "output_name": "ccbgssse068-bloodfall.esl"
+  },
+  {
+    "input_name": "ccBGSSSE069-Contest.bsa",
+    "output_name": "ccbgssse069-contest.bsa"
+  },
+  {
+    "input_name": "ccBGSSSE069-Contest.esl",
+    "output_name": "ccbgssse069-contest.esl"
+  },
+  {
+    "input_name": "ccCBHSSE001-Gaunt.bsa",
+    "output_name": "cccbhsse001-gaunt.bsa"
+  },
+  {
+    "input_name": "ccCBHSSE001-Gaunt.esl",
+    "output_name": "cccbhsse001-gaunt.esl"
+  },
+  {
+    "input_name": "ccEDHSSE001-NorJewel.bsa",
+    "output_name": "ccedhsse001-norjewel.bsa"
+  },
+  {
+    "input_name": "ccEDHSSE001-NorJewel.esl",
+    "output_name": "ccedhsse001-norjewel.esl"
+  },
+  {
+    "input_name": "ccEDHSSE002-SplKntSet.bsa",
+    "output_name": "ccedhsse002-splkntset.bsa"
+  },
+  {
+    "input_name": "ccEDHSSE002-SplKntSet.esl",
+    "output_name": "ccedhsse002-splkntset.esl"
+  },
+  {
+    "input_name": "ccEDHSSE003-Redguard.bsa",
+    "output_name": "ccedhsse003-redguard.bsa"
+  },
+  {
+    "input_name": "ccEDHSSE003-Redguard.esl",
+    "output_name": "ccedhsse003-redguard.esl"
+  },
+  {
+    "input_name": "ccEEJSSE001-Hstead.bsa",
+    "output_name": "cceejsse001-hstead.bsa"
+  },
+  {
+    "input_name": "ccEEJSSE001-Hstead.esm",
+    "output_name": "cceejsse001-hstead.esm"
+  },
+  {
+    "input_name": "ccEEJSSE002-Tower.bsa",
+    "output_name": "cceejsse002-tower.bsa"
+  },
+  {
+    "input_name": "ccEEJSSE002-Tower.esl",
+    "output_name": "cceejsse002-tower.esl"
+  },
+  {
+    "input_name": "ccEEJSSE003-Hollow.bsa",
+    "output_name": "cceejsse003-hollow.bsa"
+  },
+  {
+    "input_name": "ccEEJSSE003-Hollow.esl",
+    "output_name": "cceejsse003-hollow.esl"
+  },
+  {
+    "input_name": "ccEEJSSE004-Hall.bsa",
+    "output_name": "cceejsse004-hall.bsa"
+  },
+  {
+    "input_name": "ccEEJSSE004-Hall.esl",
+    "output_name": "cceejsse004-hall.esl"
+  },
+  {
+    "input_name": "ccEEJSSE005-Cave.bsa",
+    "output_name": "cceejsse005-cave.bsa"
+  },
+  {
+    "input_name": "ccEEJSSE005-Cave.esm",
+    "output_name": "cceejsse005-cave.esm"
+  },
+  {
+    "input_name": "ccFFBSSE001-ImperialDragon.bsa",
+    "output_name": "ccffbsse001-imperialdragon.bsa"
+  },
+  {
+    "input_name": "ccFFBSSE001-ImperialDragon.esl",
+    "output_name": "ccffbsse001-imperialdragon.esl"
+  },
+  {
+    "input_name": "ccFFBSSE002-CrossbowPack.bsa",
+    "output_name": "ccffbsse002-crossbowpack.bsa"
+  },
+  {
+    "input_name": "ccFFBSSE002-CrossbowPack.esl",
+    "output_name": "ccffbsse002-crossbowpack.esl"
+  },
+  {
+    "input_name": "ccFSVSSE001-Backpacks.bsa",
+    "output_name": "ccfsvsse001-backpacks.bsa"
+  },
+  {
+    "input_name": "ccFSVSSE001-Backpacks.esl",
+    "output_name": "ccfsvsse001-backpacks.esl"
+  },
+  {
+    "input_name": "ccKRTSSE001_Altar.bsa",
+    "output_name": "cckrtsse001_altar.bsa"
+  },
+  {
+    "input_name": "ccKRTSSE001_Altar.esl",
+    "output_name": "cckrtsse001_altar.esl"
+  },
+  {
+    "input_name": "ccMTYSSE001-KnightsOfTheNine.bsa",
+    "output_name": "ccmtysse001-knightsofthenine.bsa"
+  },
+  {
+    "input_name": "ccMTYSSE001-KnightsOfTheNine.esl",
+    "output_name": "ccmtysse001-knightsofthenine.esl"
+  },
+  {
+    "input_name": "ccMTYSSE002-VE.bsa",
+    "output_name": "ccmtysse002-ve.bsa"
+  },
+  {
+    "input_name": "ccMTYSSE002-VE.esl",
+    "output_name": "ccmtysse002-ve.esl"
+  },
+  {
+    "input_name": "ccPEWSSE002-ArmsOfChaos.bsa",
+    "output_name": "ccpewsse002-armsofchaos.bsa"
+  },
+  {
+    "input_name": "ccPEWSSE002-ArmsOfChaos.esl",
+    "output_name": "ccpewsse002-armsofchaos.esl"
+  },
+  {
+    "input_name": "ccQDRSSE001-SurvivalMode.bsa",
+    "output_name": "ccqdrsse001-survivalmode.bsa"
+  },
+  {
+    "input_name": "ccQDRSSE001-SurvivalMode.esl",
+    "output_name": "ccqdrsse001-survivalmode.esl"
+  },
+  {
+    "input_name": "ccQDRSSE002-Firewood.bsa",
+    "output_name": "ccqdrsse002-firewood.bsa"
+  },
+  {
+    "input_name": "ccQDRSSE002-Firewood.esl",
+    "output_name": "ccqdrsse002-firewood.esl"
+  },
+  {
+    "input_name": "ccRMSSSE001-NecroHouse.bsa",
+    "output_name": "ccrmssse001-necrohouse.bsa"
+  },
+  {
+    "input_name": "ccRMSSSE001-NecroHouse.esl",
+    "output_name": "ccrmssse001-necrohouse.esl"
+  },
+  {
+    "input_name": "ccTWBSSE001-PuzzleDungeon.bsa",
+    "output_name": "cctwbsse001-puzzledungeon.bsa"
+  },
+  {
+    "input_name": "ccTWBSSE001-PuzzleDungeon.esm",
+    "output_name": "cctwbsse001-puzzledungeon.esm"
+  },
+  {
+    "input_name": "ccVSVSSE001-Winter.bsa",
+    "output_name": "ccvsvsse001-winter.bsa"
+  },
+  {
+    "input_name": "ccVSVSSE001-Winter.esl",
+    "output_name": "ccvsvsse001-winter.esl"
+  },
+  {
+    "input_name": "ccVSVSSE002-Pets.bsa",
+    "output_name": "ccvsvsse002-pets.bsa"
+  },
+  {
+    "input_name": "ccVSVSSE002-Pets.esl",
+    "output_name": "ccvsvsse002-pets.esl"
+  },
+  {
+    "input_name": "ccVSVSSE003-NecroArts.bsa",
+    "output_name": "ccvsvsse003-necroarts.bsa"
+  },
+  {
+    "input_name": "ccVSVSSE003-NecroArts.esl",
+    "output_name": "ccvsvsse003-necroarts.esl"
+  },
+  {
+    "input_name": "ccVSVSSE004-BeAFarmer.bsa",
+    "output_name": "ccvsvsse004-beafarmer.bsa"
+  },
+  {
+    "input_name": "ccVSVSSE004-BeAFarmer.esl",
+    "output_name": "ccvsvsse004-beafarmer.esl"
+  }
+]
